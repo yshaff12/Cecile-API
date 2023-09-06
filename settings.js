@@ -2,7 +2,7 @@ require('dotenv').config()
 
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
-creator = 'ShirokamiRyzen' // Name
+creator = 'YardanShaq' // Name
 port = 8080 // Host port
 LimitApikey = 200 // Default Apikey Limit
 
