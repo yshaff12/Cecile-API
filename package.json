@@ -1,5 +1,5 @@
 {
-  "name": "Ryzen-API",
+  "name": "Cecile-API",
   "version": "2.0.0",
   "description": "Restfull API for Whatsapp Bot JS",
   "main": "index.js",
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShirokamiRyzen/Ryzen-RestAPI.git"
+    "url": "git+https://github.com/yshaff12/Cecile-API.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "ShirokamiRyzen",
+  "author": "Yardanshaq",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShirokamiRyzen/Ryzen-RestAPI/issues"
+    "url": "https://github.com/yshaff12/Cecile-API/issues"
   },
-  "homepage": "https://github.com/ShirokamiRyzen/Ryzen-RestAPI#readme",
+  "homepage": "https://github.com/yshaff12/Ceceile-API#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
